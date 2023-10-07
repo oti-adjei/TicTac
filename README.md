@@ -1,2 +1,2 @@
 # TicTacgame
-Software engineering project
+Software Engineering I project
